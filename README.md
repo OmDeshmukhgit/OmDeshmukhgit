@@ -1,6 +1,6 @@
 <div align="center">
   
-# Hello Dosto 👋
+# Hey I am Here 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer+in+training;Kubernetes+%26+Docker+Hands-on;Terraform+%26+AWS+Practitioner;Linux+Troubleshooting+Expert)](https://git.io/typing-svg)
 
@@ -20,7 +20,19 @@ I'm an **Aspiring DevOps Engineer** specializing in **Kubernetes, Docker, and In
 
 ---
 
+
 ## 🛠️ Tech Stack
+
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</p>
+
 
 ### **Core Tools**
 <p align="left">
